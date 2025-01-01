@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 import os
 import sys
 import json
